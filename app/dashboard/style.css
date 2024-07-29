@@ -1,0 +1,6 @@
+.custom-table .ant-table-thead>tr>th {
+    background-color: #4CAF50;
+    /* Change to your desired color */
+    color: white;
+    /* Change to your desired text color */
+}
