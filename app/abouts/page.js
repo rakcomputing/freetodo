@@ -8,6 +8,9 @@ const page = () => {
         <h4>
           "Raksmey CHann" is a Full Stack Web Developer !
           <br />
+          "Contactt me" at raksmey.itmoh@gmail.com"
+          <br />
+          "Telegram me" at 0885290240
         </h4>
       </div>
     </div>
